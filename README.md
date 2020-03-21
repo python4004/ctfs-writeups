@@ -41,7 +41,8 @@ yup i found it
 
 it was very easy challenge what you should do only open <b>inspect</b>  and Change <b> "give flag" </b> to <b> "please give flag" </b>
 ![Screenshot from 2020-03-21 04-07-53](https://user-images.githubusercontent.com/36403473/77217291-fff07000-6b29-11ea-8a41-ac63fdd4ef62.png)
-our flag is <b> actf{1nsp3c7_3l3m3nt_is_y0ur_b3st_fri3nd} </b>
+our flag is
+####<b> actf{1nsp3c7_3l3m3nt_is_y0ur_b3st_fri3nd} </b>
 
 ## Xmas Still Stands
 
@@ -55,4 +56,5 @@ i reported my post to admin , checking my requestbin i found the flag
 
 ![9d2b4cb0-d98d-4053-a165-341fc82d376d](https://user-images.githubusercontent.com/36403473/77217880-9faffd00-6b2e-11ea-8e50-b45a691fbb00.jpeg)
 
-yup the flag is <b> actf{s4n1tize_y0ur_html_4nd_y0ur_h4nds} </b>
+yup the flag is 
+####<b>actf{s4n1tize_y0ur_html_4nd_y0ur_h4nds} </b>
