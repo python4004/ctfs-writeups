@@ -13,7 +13,7 @@ i participated in ångstromCTF 2020 with my awesome team P1rates as python_4004 
 now lets try to download git files 
 to do that open your terminal and write 
 git clone +the link of the challenge 
-##### git clone https://gitgood.2020.chall.actf.co/.git 
+##### <code> <b> git clone https://gitgood.2020.chall.actf.co/.git </b> </code> 
 ![Screenshot from 2020-03-21 02-37-29](https://user-images.githubusercontent.com/36403473/77215565-5f944e80-6b1d-11ea-9f41-b7f8d0feba48.png)
 The first thing I thought about was looking at the log file
 ##### <code> <b>git log -p</b> </code>
