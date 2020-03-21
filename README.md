@@ -19,7 +19,7 @@ The first thing I thought about was looking at the log file
 ##### <code> <b>git log -p</b> </code>
 ![Screenshot from 2020-03-21 02-41-08](https://user-images.githubusercontent.com/36403473/77215657-037dfa00-6b1e-11ea-8edf-e4d6b2588f11.png)
 yup i found the flag 
-##### actf{b3_car3ful_wh4t_y0u_s3rve_wi7h}
+#### actf{b3_car3ful_wh4t_y0u_s3rve_wi7h}
 ## Consolation
 
 by clicking on <b> pay my some money </b> it call <b> nofret() </b> function so let's see  source code  
@@ -35,14 +35,14 @@ looking very well i found ohh lets delete this line and put thit function on con
 ![Screenshot from 2020-03-21 04-02-07](https://user-images.githubusercontent.com/36403473/77217187-2feb4380-6b29-11ea-9442-0a00b9398630.png)
 
 yup i found it 
-<b> actf{you_would_n0t_beli3ve_your_eyes} <b/>
+#### <b> actf{you_would_n0t_beli3ve_your_eyes} </b>
 
-##The Magic Word
+## The Magic Word
 
 it was very easy challenge what you should do only open <b>inspect</b>  and Change <b> "give flag" </b> to <b> "please give flag" </b>
 ![Screenshot from 2020-03-21 04-07-53](https://user-images.githubusercontent.com/36403473/77217291-fff07000-6b29-11ea-8a41-ac63fdd4ef62.png)
-our flag is
-####<b> actf{1nsp3c7_3l3m3nt_is_y0ur_b3st_fri3nd} </b>
+our flag is :
+#### <b> actf{1nsp3c7_3l3m3nt_is_y0ur_b3st_fri3nd} </b>
 
 ## Xmas Still Stands
 
@@ -56,5 +56,5 @@ i reported my post to admin , checking my requestbin i found the flag
 
 ![9d2b4cb0-d98d-4053-a165-341fc82d376d](https://user-images.githubusercontent.com/36403473/77217880-9faffd00-6b2e-11ea-8e50-b45a691fbb00.jpeg)
 
-yup the flag is 
-####<b>actf{s4n1tize_y0ur_html_4nd_y0ur_h4nds} </b>
+yup the flag is : 
+#### <b>actf{s4n1tize_y0ur_html_4nd_y0ur_h4nds} </b>
