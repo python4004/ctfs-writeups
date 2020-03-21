@@ -16,7 +16,7 @@ git clone +the link of the challenge
 ##### git clone https://gitgood.2020.chall.actf.co/.git 
 ![Screenshot from 2020-03-21 02-37-29](https://user-images.githubusercontent.com/36403473/77215565-5f944e80-6b1d-11ea-9f41-b7f8d0feba48.png)
 The first thing I thought about was looking at the log file
-##### <span style="background-color: #FFFF00">git log -p</span>
+##### <code> <i>This text will be italic</i> <b>git log -p</b> </code>
 ![Screenshot from 2020-03-21 02-41-08](https://user-images.githubusercontent.com/36403473/77215657-037dfa00-6b1e-11ea-8edf-e4d6b2588f11.png)
 yup i found the flag 
 ##### actf{b3_car3ful_wh4t_y0u_s3rve_wi7h}
