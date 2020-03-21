@@ -53,9 +53,6 @@ i use requestbin to get admin cookies
 ![Screenshot from 2020-03-21 04-26-16](https://user-images.githubusercontent.com/36403473/77217832-1e586a80-6b2e-11ea-9c2c-020f7d1e9376.png)
 
 i reported my post to admin , checking my requestbin i found the flag 
-
-![9d2b4cb0-d98d-4053-a165-341fc82d376d](https://user-images.githubusercontent.com/36403473/77217880-9faffd00-6b2e-11ea-8e50-b45a691fbb00.jpeg)
-
 the flag is :  
 #### <b>actf{s4n1tize_y0ur_html_4nd_y0ur_h4nds} </b>
 
