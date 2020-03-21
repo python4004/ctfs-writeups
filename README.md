@@ -1,5 +1,5 @@
 # angstromCTF 2020
-### This is writeups for ångstromCTF 2020.
+### This is our writeups for ångstromCTF 2020.
 ![angstrom-3e0d6c871da7786e59fcc988735f4f5ded75aab5fac89f538291b3ef033801eb](https://user-images.githubusercontent.com/36403473/77215806-d4b45380-6b1e-11ea-8853-b9539e6bc4d0.png)
 
 i participated in ångstromCTF 2020 with my awesome team P1rates as python_4004 & my dude mokey  . This is our writeups about some challenges we solved during the competition.
